@@ -1,0 +1,27 @@
+PODS:
+  - Expecta (1.0.6)
+  - Specta (1.0.7)
+  - YJCategorys (0.1.0)
+
+DEPENDENCIES:
+  - Expecta
+  - Specta
+  - YJCategorys (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Expecta
+    - Specta
+
+EXTERNAL SOURCES:
+  YJCategorys:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
+  Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
+  YJCategorys: 51c06643d29473f400b7917a0ff3a3e4599a78bd
+
+PODFILE CHECKSUM: 2db80904e18d33fbbc61c8fc42510bdf570a6b60
+
+COCOAPODS: 1.8.4
