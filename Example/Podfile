@@ -1,0 +1,7 @@
+use_frameworks!
+target 'YJCategorys_Tests' do
+  pod 'YJCategorys', :path => '../'
+  
+  pod 'Specta'
+    pod 'Expecta'
+end
