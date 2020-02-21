@@ -6,22 +6,22 @@ PODS:
 DEPENDENCIES:
   - Expecta
   - Specta
-  - YJCategorys (from `../`)
+  - YJCategorys (from `../YJCategorys.podspec`)
 
 SPEC REPOS:
-  trunk:
+  https://github.com/CocoaPods/Specs.git:
     - Expecta
     - Specta
 
 EXTERNAL SOURCES:
   YJCategorys:
-    :path: "../"
+    :path: "../YJCategorys.podspec"
 
 SPEC CHECKSUMS:
   Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
   Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
   YJCategorys: 51c06643d29473f400b7917a0ff3a3e4599a78bd
 
-PODFILE CHECKSUM: 2db80904e18d33fbbc61c8fc42510bdf570a6b60
+PODFILE CHECKSUM: 68c9d2766bdbf9474474ba0fc3dd646db420afbd
 
 COCOAPODS: 1.8.4

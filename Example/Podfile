@@ -1,6 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
 use_frameworks!
 target 'YJCategorys_Tests' do
-  pod 'YJCategorys', :path => '../'
+  pod 'YJCategorys', :path => '../YJCategorys.podspec'
   
   pod 'Specta'
     pod 'Expecta'
